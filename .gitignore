@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# Virtual env folder
+summarization_env/
+
 # C extensions
 *.so
 
