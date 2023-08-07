@@ -7,6 +7,8 @@ __pycache__/
 # Virtual env folder
 summarization_env/
 
+archive/
+
 # C extensions
 *.so
 
